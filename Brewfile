@@ -26,6 +26,7 @@ cask install skype
 cask install sublime-text
 cask install skitch
 cask install slack
+cask install alfred
 
 tap 'komagata/mycask'
 cask install line
