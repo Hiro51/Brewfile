@@ -17,6 +17,9 @@ install postgresql
 install rbenv
 install ruby-build
 
+#Heroku
+install heroku-toolbelt
+
 
 
 # App
@@ -27,6 +30,7 @@ cask install sublime-text
 cask install skitch
 cask install slack
 cask install alfred
+cask install kindle
 
 tap 'komagata/mycask'
 cask install line
