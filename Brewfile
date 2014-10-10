@@ -20,7 +20,8 @@ install ruby-build
 #Heroku
 install heroku-toolbelt
 
-
+#ImageMagick
+install imagemagick
 
 # App
 cask install dropbox
