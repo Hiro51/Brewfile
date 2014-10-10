@@ -33,9 +33,6 @@ cask install slack
 cask install alfred
 cask install kindle
 
-tap 'komagata/mycask'
-cask install line
-
 tap homebrew/versions
 
 # Remove outdated versions from the cellar
