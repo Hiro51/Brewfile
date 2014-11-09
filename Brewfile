@@ -5,7 +5,7 @@ update
 upgrade
 
 # Install homebrew-cask
-tap phinze/homebrew-cask || true
+tap caskroom/homebrew-cask || true
 
 install brew-cask
 
@@ -22,6 +22,10 @@ install heroku-toolbelt
 
 #ImageMagick
 install imagemagick
+
+#arduino
+cask install arduino
+install java se6
 
 # App
 cask install dropbox
